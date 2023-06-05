@@ -1,0 +1,1 @@
+Cloning a landing page with HTML & CSS [float property].
